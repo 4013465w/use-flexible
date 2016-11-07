@@ -1,0 +1,30 @@
+{
+  "name": "use-flexible",
+  "version": "1.0.0",
+  "description": "flexible 自动化迁移方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4013465w/use-flexible.git"
+  },
+  "keywords": [
+    "didi",
+    "kf",
+    "flexible"
+  ],
+  "author": "autumn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4013465w/use-flexible/issues"
+  },
+  "homepage": "https://github.com/4013465w/use-flexible#readme",
+  "bin": {
+    "flexible": "bin/flexible.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.1"
+  }
+}
